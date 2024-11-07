@@ -1,2 +1,5 @@
 etc/*
 ops/*
+log/*
+bin/*
+.vscode/*
